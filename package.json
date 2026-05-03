@@ -1,0 +1,14 @@
+{
+  "name": "agentrq-gemini-extension",
+  "version": "1.0.0",
+  "description": "AgentRQ Gemini CLI Extension",
+  "keywords": [
+    "gemini-cli-extension",
+    "agentrq",
+    "mcp",
+    "task manager",
+    "tasks"
+  ],
+  "author": "AgentRQ",
+  "license": "Apache-2.0"
+}
