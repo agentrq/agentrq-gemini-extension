@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Human-in-the-loop task manager for agents",
   "mcpServers": {
-    "agentrq-supervisor": {
+    "agentrq": {
       "type": "http",
       "url": "https://mcp.agentrq.com/mcp"
     }
