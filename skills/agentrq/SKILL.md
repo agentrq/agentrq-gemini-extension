@@ -1,6 +1,6 @@
 ---
 name: agentrq
-description: Learn creating, scheduling tasks, workspaces, and collaborating with human operators on the AgentRQ platform. Lead colon of AI agents using AgentRQ MCP tools.
+description: Learn creating, scheduling tasks, workspaces, and collaborating with human operators on the AgentRQ platform. Lead colony of AI agents using AgentRQ MCP tools.
 ---
 
 # AgentRQ Task Manager Guidelines
